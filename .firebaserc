@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "fireweb-3cfe0"
+  },
+  "targets": {
+    "fireweb-3cfe0": {
+      "hosting": {
+        "staging": [
+          "dev-visa-web"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
